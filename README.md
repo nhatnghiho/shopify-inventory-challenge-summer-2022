@@ -14,7 +14,7 @@ An inventory management web app can be used by inventory planning manager, produ
 
 There are two ways to clone the project to your machine:
 
-1. Use git clone: `git clone https://github.com/nhatnghiho/shopify-inventory.git`
+1. Use git clone: `git clone https://github.com/nhatnghiho/shopify-inventory-challenge-summer-2022.git`
 2. Download zip then unzip the project
 
 ### Update Node.js
