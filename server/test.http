@@ -1,0 +1,4 @@
+POST http://localhost:4000/api/inventory/delete?item_id=2317292&location_id=1700
+Content-Type: application/json
+
+

@@ -1,0 +1,58 @@
+.App {
+  text-align: left;
+}
+
+button {
+  margin: 10px;
+}
+
+.col-container {
+  display: table;
+  width: 100%;
+}
+
+.left-col {
+  display: table-cell;
+  padding: 16px;
+  background: rgb(89, 223, 134);
+  border: 1px solid;
+}
+
+.right-col {
+  display: table-cell;
+  padding: 16px;
+  background: rgb(173, 228, 173);
+  width: 65%;
+  border: 1px solid;
+}
+
+.form-row {
+  display: table;
+  width: 100%;
+  padding: 2px;
+}
+
+.label-col {
+  display: table-cell;
+  width: 30%;
+}
+
+.input-col {
+  display: table-cell;
+  width: 75%;
+}
+
+.input-col input {
+  width: 90%;
+}
+
+.form-row input[type="submit"] {
+  float: right;
+  margin-right: 7%;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+}
