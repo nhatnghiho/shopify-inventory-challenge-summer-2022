@@ -137,4 +137,4 @@ An inventory maps an item to a location and specifies the item's quantity at tha
 
 ## API Usage and Documentation
 
-For API Usage and Documentation, please refer to the this README.md document ([LINK](https://github.com/nhatnghiho/shopify-inventory-private/blob/2e8b63b37b0a4f594df5f8d3e0b0111830567d7b/server/README.md))
+For API Usage and Documentation, please refer to the this README.md document ([LINK](https://github.com/nhatnghiho/shopify-inventory-challenge-summer-2022/blob/326ecfb91a8d4d2064ff5eab155f89d298f01b0f/server/README.md))
